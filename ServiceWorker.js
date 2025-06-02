@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-WHAnalytics-0.1";
 const contentToCache = [
     "Build/bb0d9ecdb05db3e84da20bd14a4f84dc.loader.js",
-    "Build/dc7700725c5f18a76c35903c849fbb52.framework.js.gz",
-    "Build/bf767f02f6203a0c5f67615eaaa6c210.data.gz",
-    "Build/0ddac1f872e6ab9026a737a27cd331ce.wasm.gz",
+    "Build/a45b2fb9ecfb83ca90d71d2c7684fc47.framework.js",
+    "Build/8e311557c9f25e09051d6ab679a67d6a.data",
+    "Build/9f45882e8d47d1f29d3283a701f01e30.wasm",
     "TemplateData/style.css"
 
 ];
